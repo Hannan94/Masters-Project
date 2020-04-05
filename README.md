@@ -1,5 +1,6 @@
 # Masters-Project
-Human Activity Recognition (HAR) using WiFi signal Channel State Information (CSI)
+Human Activity Recognition (HAR) using WiFi signal Channel State Information (CSI). 
+
 Experiments:
 Collect time-series data in a wifi-enabled environment for walking, running,
 sitting, and fall human activities. 
