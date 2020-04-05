@@ -1,11 +1,11 @@
-# Human Activity Recognition (HAR) using WiFi signal Channel State Information (CSI). 
+# Human Activity Recognition (HAR): Speed Estimation using Channel State Infromation(CSI) in WiFi
 
 Experiments:
-Collect time-series data in a wifi-enabled environment for walking, running,
-sitting, and fall human activities. 
-
+Collect time-series data in a wifi-enabled environment for angle 30, 60 and 85 degree. 
 Preprocessing (data analysis)    
-Denoising the collected raw data using Discrete Wavelet Transform. Features reduction using Principle Components Analysis. Calculated statistical properties for each sample
+Denoising the collected raw data using Discrete Wavelet Transform.   
+Features reduction using Principle Components Analysis.  
+Calculated statistical properties for each sample. 
 
 Classification model
-Classify Human activities using the linear support vector machine (SVM)
+Classify the angle using the linear support vector machine (SVM)
