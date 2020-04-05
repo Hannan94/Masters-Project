@@ -1,4 +1,4 @@
-# Human Activity Recognition (HAR): Speed Estimation using Channel State Infromation(CSI) in WiFi
+## Human Activity Recognition (HAR): Speed Estimation using Channel State Infromation(CSI) in WiFi
 
 Experiments:
 Collect time-series data in a wifi-enabled environment for angle 30, 60 and 85 degree. 
