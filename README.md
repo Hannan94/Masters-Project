@@ -9,4 +9,6 @@ Features reduction using Principle Components Analysis.
 Calculated statistical properties for each sample. 
 
 *Classification model*    
-Classify the angle using the linear support vector machine (SVM)
+Classify the angle using the linear support vector machine (SVM). 
+
+
